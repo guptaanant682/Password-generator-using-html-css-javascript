@@ -1,3 +1,4 @@
+/*Importing font awesome using url  */
 @import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
 
 * {
@@ -110,6 +111,7 @@ textarea {
   margin: 15px 0;
 }
 
+/*CSS media queries: Conditions for applying styles based on device characteristics.  */
 @media screen and (max-width: 400px) {
   .result-container {
     font-size: 14px;
